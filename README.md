@@ -1,2 +1,5 @@
 # evals-action
-A GitHub Action to parse LLM eval results, display and aggregate them.
+
+[![CI](https://github.com/maragudk/evals/actions/workflows/ci.yml/badge.svg)](https://github.com/maragudk/evals/actions/workflows/ci.yml)
+
+A GitHub Action to parse LLM eval results, display, and aggregate them.

@@ -1,6 +1,6 @@
 name: "Evals"
 author: "maragudk"
-description: "A GitHub Action to parse LLM eval results, display and aggregate them."
+description: "A GitHub Action to parse LLM eval results, display, and aggregate them."
 runs:
   using: "docker"
   image: "docker://ghcr.io/maragudk/evals:latest"
