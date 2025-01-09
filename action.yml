@@ -1,0 +1,9 @@
+name: "Evals"
+author: "maragudk"
+description: "A GitHub Action to parse LLM eval results, display and aggregate them."
+runs:
+  using: "docker"
+  image: "docker://hello-world"
+branding:
+  icon: "bar-chart-2"
+  color: "red"
